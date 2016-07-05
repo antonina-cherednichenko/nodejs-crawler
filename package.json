@@ -1,0 +1,9 @@
+{
+  "name": "crawler-task",
+  "main": "crawler.js",
+
+  "dependencies": {
+    "request" : "2.72.0",
+    "cheerio" : "0.20.0"
+  }
+}
